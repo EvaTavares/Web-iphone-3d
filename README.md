@@ -3,7 +3,7 @@
 ## :memo: Descrição
 Website para venda de iPhones feita com animação e renderização 3D no navegador.
 
-###  :relaxed: Veja como ficou o site
+###  :relaxed: Veja como ficou o site (aperta o play! :arrow_forward:)
 https://github.com/EvaTavares/iphone-3d-website-starter-main/assets/105613218/a27ffe21-923a-4805-a6f0-6f743634709d
 
 ## :books: Funcionalidades 
